@@ -20,7 +20,6 @@ Welcome to **Webli**, a modern and fast-growing web development agency focused o
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js
 - **Animations**: GSAP, Framer Motion
 - **Backend**: Node.js, Express.js, MongoDB
-- **Deployment**: Vercel, Netlify, GitHub Pages
 
 ---
 
@@ -28,8 +27,10 @@ Welcome to **Webli**, a modern and fast-growing web development agency focused o
 
 | Project | Stack | Description | Live |
 |--------|-------|-------------|------|
-| Spice Saga | React + Tailwind + GSAP | Restaurant UI with bold animations | [Live Demo](https://spicesaga.vercel.app/) |
-| Atmos | React + GSAP | Environment-focused minimal design | [Live Demo](https://rishabh0777.github.io/Atmos/) |
+| **Founder Portfolio** | React + Tailwind + Framer Motion | Sleek personal portfolio for Webli founder Rishabh Srivastava | [Live Demo](https://rishabhsrivastava.vercel.app) |
+| **TimelessVogue** | React + Tailwind + GSAP | Modern fashion brand homepage with clean UI | [Live Demo](https://timelessvogue.vercel.app) |
+| **Spice Saga** | React + Tailwind + GSAP | Restaurant UI with bold animations | [Live Demo](https://spicesaga.vercel.app/) |
+| **Atmos** | React + GSAP | Environment-focused minimal design | [Live Demo](https://rishabh0777.github.io/Atmos/) |
 
 ---
 
