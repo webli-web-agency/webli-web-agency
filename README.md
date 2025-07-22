@@ -39,7 +39,7 @@ Need a stunning, fast, and functional website?
 We’d love to bring your vision to life with our expertise.
 
 📧 Email: rishabhsrivastava7777@gmail.com  
-📸 Instagram: [@webli.dev](https://instagram.com/webli_studio) *(or your actual handle)*
+📸 Instagram: [@webli_studio](https://instagram.com/webli_studio) *(or your actual handle)*
 
 ---
 
